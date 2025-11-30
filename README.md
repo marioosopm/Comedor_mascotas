@@ -1,4 +1,4 @@
-# Dispensador de alimentos para mascota usando la FPGA BlacIce II
+# Implementación Digital de un Dispensador de Alimento para Mascotas en FPGA BlackIce II
 
 <div align="center">
     <br>
