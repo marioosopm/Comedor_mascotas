@@ -13,3 +13,13 @@ work/
 
 # Ignorar reportes de síntesis automáticos
 *.rpt
+
+# Icarus Verilog
+*.vvp
+*.out
+
+# Yosys
+*.blif
+*.asc
+*.bin
+*.json
