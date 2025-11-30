@@ -1,0 +1,15 @@
+# Ignorar archivos compilados y temporales
+*.log
+*.bak
+*.aux
+*.db
+incremental_db/
+work/
+
+# Ignorar archivos de formas de onda
+*.vcd
+*.wdb
+*.vpd
+
+# Ignorar reportes de síntesis automáticos
+*.rpt
